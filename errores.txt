@@ -1,0 +1,15 @@
+
+Error de conexión en base de datos | 🔴 |El sistema no puede conectarse correctamente con la base de datos.
+Datos duplicados o que no se guardan| 🔴  | Los datos se registran varias veces o no se almacenan correctamente.
+Vulnerabilidad con inyecciones SQL | 🔴  | La aplicación permite introducir datos que podrían afectar o manipular las consultas de la base de datos.
+Inicio de sesión defectuoso | 🔴 | El sistema presenta problemas al iniciar sesión o validar las credenciales.
+Roles de usuarios descontrolados | 🔴 | Los usuarios pueden acceder a funciones que no corresponden con sus permisos.
+Consultas lentas | 🟡  | Las consultas a la base de datos tardan demasiado en mostrar resultados.
+Diseño no responsivo | 🟡  | La página no se adapta correctamente a diferentes tamaños de pantalla.
+Enlaces rotos / error 404 | 🟡  | Algunos enlaces llevan a páginas que no existen o no funcionan.
+Incompatibilidad con navegador | 🟡 | Algunas funciones no funcionan correctamente en determinados navegadores.
+Envío de datos no válidos | 🟡   | El sistema permite enviar información incorrecta o con un formato no válido.
+Falta de certificado SSL | 🟡  | La página no cuenta con una conexión HTTPS segura.
+Imágenes o archivos no cargados | 🟡  | Algunos recursos de la página no aparecen o no se cargan correctamente.
+Estilos CSS no validados | 🟢  | Existen errores o problemas menores en el código de estilos CSS.
+Errores de ortografía | 🟢  | Hay palabras o textos escritos incorrectamente en la página. 
